@@ -1,0 +1,8 @@
+name: Essentials Reloaded Webhook
+version: ${project.version}
+main: io.github.austerzockt.essentialsreloaded.essentialsreloadedwebhook.EssentialsReloadedWebhook
+api-version: 1.16
+prefix: ERW
+depend: [ EssentialsReloaded ]
+authors: [ Austerzockt ]
+description: This Plugin is simply the webhook for the external WebAPI to manage some functionality of the plugin
